@@ -5,7 +5,6 @@ Site de uma loja de roupas com o objetivo de facilitar a vida dos consumidores c
 - Pedro Henrique Prates
 - Nathalia Carneiro
 - Jéssica Oka
-- Lucas Almeida Gabriel
 ## Professores responsáveis
 - Juliana Padilha
 - Rommel Carneiro
